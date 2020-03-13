@@ -1,0 +1,1 @@
+jest-localstorage-mock https://www.npmjs.com/package/jest-localstorage-mock
